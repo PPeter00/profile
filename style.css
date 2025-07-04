@@ -1,6 +1,7 @@
 
 /*  font-family: 'Bai Jamjuree', sans-serif;  */
 @import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree:ital,wght@1,500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bitcount+Grid+Double:wght@100..900&display=swap');
 :root{
     --color-body: #b6cbce;
     --color-heading: #eef3db;
@@ -9,7 +10,7 @@
     --color-brand: #e0f780;
     --color-brand2: #deff58;
     --sidbar-width: 240px;
-    --font-base: "Bai Jamjuree";
+    --font-base:  "Bitcount Grid Double", system-ui;
 }
 body{
     background-color: var(--color-base2);
